@@ -6,7 +6,7 @@ Most recently: built an HTTP/1.1 server from scratch in C++, and currently deplo
 
 ## Featured work
 
-**[HTTP/1.1 Server Implementation]([#]https://github.com/FalcoBen/webserer_core)** — HTTP/1.1 server in C++
+**[HTTP/1.1 Server Implementation](https://github.com/FalcoBen/webserer_core)** — HTTP/1.1 server in C++
 A non-blocking web server with an epoll-based event loop and CGI support. Along the way: found and fixed a TOCTOU race condition in CGI path resolution, and traced a memory growth issue under concurrent load using Massif.
 `C++` `epoll` `HTTP/1.1` `CGI`
 
