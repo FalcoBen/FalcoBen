@@ -30,4 +30,4 @@ Going deeper into Docker — from container fundamentals toward orchestration (S
 
 ## Contact
 
-[GitHub](https://github.com/FalcoBen) · [LinkedIn]((https://www.linkedin.com/in/fahd-benallal-779403319/)) · [Email](fahdben771@gmail.com)
+[GitHub](https://github.com/FalcoBen) · [LinkedIn](https://www.linkedin.com/in/fahd-benallal-779403319)) · [Email](fahdben771@gmail.com)
