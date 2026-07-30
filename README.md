@@ -6,15 +6,15 @@ Most recently: built an HTTP/1.1 server from scratch in C++, and currently deplo
 
 ## Featured work
 
-**[HTTP/1.1 Server Implementation](#)** — HTTP/1.1 server in C++
+**[HTTP/1.1 Server Implementation]([#]https://github.com/FalcoBen/webserer_core)** — HTTP/1.1 server in C++
 A non-blocking web server with an epoll-based event loop and CGI support. Along the way: found and fixed a TOCTOU race condition in CGI path resolution, and traced a memory growth issue under concurrent load using Massif.
 `C++` `epoll` `HTTP/1.1` `CGI`
 
-**[Inception](#)** — Docker infrastructure *(in progress)*
+**[Inception]([#]https://github.com/FalcoBen/inception)** — Docker infrastructure *(in progress)*
 Multi-container stack — NGINX, WordPress/PHP-FPM, MariaDB — built from base images with custom networking and volume persistence, deployed inside a self-managed VM.
 `Docker` `Linux` `Networking`
 
-**[ray_tracer](#)** — Ray tracer in C
+**[ray_tracer]([#]https://github.com/FalcoBen/ray_tracer)** — Ray tracer in C
 A small 3D renderer handling ray-sphere/plane intersections, lighting, and shadows — built without any graphics library.
 `C` `Vector Math` `Rendering`
 
